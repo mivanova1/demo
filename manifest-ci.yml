@@ -1,0 +1,6 @@
+---
+applications:
+- name: demo
+  memory: 512m
+  random-route: true
+  path: build/libs/demo.jar
